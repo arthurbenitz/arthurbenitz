@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/767765657956778035/1250195091599917141/Imagem_do_WhatsApp_de_2024-06-11_as_11.52.48_c55a4292.jpg?ex=666a0e69&is=6668bce9&hm=c453ec9bada13d77c6b7b59e1cc1377ddf0ffcf4f920a861bb6d0555c8ca0735&"  />
+<img align="right" height="300" src="https://cdn.discordapp.com/attachments/767765657956778035/1250195091599917141/Imagem_do_WhatsApp_de_2024-06-11_as_11.52.48_c55a4292.jpg?ex=666a0e69&is=6668bce9&hm=c453ec9bada13d77c6b7b59e1cc1377ddf0ffcf4f920a861bb6d0555c8ca0735&"  />
 
 ###
 
@@ -40,12 +40,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arthurbenitz/arthurbenitz/output/snake.svg" alt="Snake animation" />
 
 ###
 
